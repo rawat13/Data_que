@@ -13,17 +13,17 @@ TOPICS COVERED :
     6. OOPS concept
 2. Python libraries for data analysis/science
      1. Pandas
-          >> What is pandas
-          >> functions used for data analysis
-          >> Practical examples
+          1. What is pandas
+          2. functions used for data analysis
+          3. Practical examples
      2. NumPy
-          >> What is Numpy
-          >> functions used for data analysis
-          >> Practical examples
+          1. What is Numpy
+          2. functions used for data analysis
+          3. Practical examples
      3. Matplotlib
-          >> What is Numpy
-          >> functions used for data analysis
-          >> Practical examples for plotting graphs and extracting insights from them
+          1. What is Numpy
+          2. functions used for data analysis
+          3. Practical examples for plotting graphs and extracting insights from them
 3. Hands-on projects
    1. Finding Patterns in Time Series Data
    2. Analyzing Data for Business Decisions
